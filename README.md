@@ -9,3 +9,6 @@ __athenaeum__
 noun    
 1. used in the names of libraries or institutions for literary or scientific study.    
    `the anathema "athenaeum"`
+
+__advice__    
+Fall asleep before you get too woke.
