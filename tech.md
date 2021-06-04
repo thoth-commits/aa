@@ -1,6 +1,3 @@
-These books might not be about Tech as you know it. But they're books you might     
-relate to if you're about Tech as I know it. 
-
 # 0
 
 * [Peter Kropotkin - An Appeal to the Young](bookified/an_appeal_to_the_young.pdf)
