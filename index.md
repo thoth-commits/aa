@@ -1,6 +1,6 @@
 # 0
 
-* [Peter Kropotkin - An Appeal to the Young](bookified/an_appeal_to_the_young.pdf)
+* [Peter Kropotkin - An Appeal to the Young (pdf)](bookified/an_appeal_to_the_young.pdf)
 
 # 1
 
@@ -14,5 +14,5 @@
 
 # 3
 
-* [Karen Brodine - Woman Sitting at the Machine Thinking](bookified/woman_sitting_at_the_machine_thinking.pdf)
+* [Karen Brodine - Woman Sitting at the Machine Thinking (pdf)](bookified/woman_sitting_at_the_machine_thinking.pdf)
 
