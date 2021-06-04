@@ -11,8 +11,6 @@ noun
    `the anathema "athenaeum"`
 
 ____    
- 
-__Caveat Emptor__ 
 
 Patrons suggest mellowing the mind with alcoholic beveerages before venturing    
 too far down a list. 
