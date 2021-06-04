@@ -12,8 +12,8 @@ noun
 
 ____    
 
-Patrons suggest mellowing the mind with alcoholic beveerages before venturing    
-too far down a list. Later entries might suffer the vice of antipathy. 
+Patrons suggest mellowing the mind with alcoholic beverages before venturing    
+too far down the index. Later entries might suffer the vice of antipathy. 
 
 None of these books are zipped. If a book ends with the `.zip` extension, rename    
 it (eg: `waywf.epub.zip` is `waywf.epub`). 
