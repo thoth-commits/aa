@@ -18,3 +18,4 @@ relate to if you're about Tech as I know it.
 # 3
 
 * [Karen Brodine - Woman Sitting at the Machine Thinking](bookified/woman_sitting_at_the_machine_thinking.pdf)
+
