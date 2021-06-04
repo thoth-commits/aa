@@ -13,7 +13,7 @@ noun
 ____    
 
 Patrons suggest mellowing the mind with alcoholic beveerages before venturing    
-too far down a list. 
+too far down a list as later entries might suffer the vice of antipathy. 
 
 None of these books are zipped. If a book ends with the `.zip` extension, rename    
 it (eg: `waywf.epub.zip` is `waywf.epub`). 
