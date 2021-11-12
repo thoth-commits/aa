@@ -15,4 +15,4 @@
 # 3
 
 * [Karen Brodine - Woman Sitting at the Machine Thinking (pdf)](bookified/woman_sitting_at_the_machine_thinking.pdf)
-
+* [K.S. Komireddi - Malevolent Republic](https://github.com/thoth-commits/aa/files/7524451/K.S.Komireddi.-.Malevolent.Republic-Oxford.University.Press.2019.epub.zip)
